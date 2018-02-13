@@ -25,3 +25,7 @@ def problem3(N):
     plotXY(t, thetta)
 
 
+
+problem1(N)
+problem2(N)
+problem3(N)
